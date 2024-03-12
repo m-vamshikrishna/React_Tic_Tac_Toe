@@ -36,6 +36,7 @@ function deriveGameBoard(gameTurns)
 function deriveWinner(gameBoard,players)
 {
   let winner = null;
+  console.log("Winner check");
   for(const combinition of WINNING_COMBINATIONS)
   {
     const firstSquareSymbol = gameBoard[combinition[0].row][combinition[0].col];
