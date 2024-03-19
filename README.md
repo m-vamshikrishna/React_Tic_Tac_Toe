@@ -1,2 +1,2 @@
 # React_Tic_Tac_Toe
-# React_Investment_Calculator
+[Link to Open Project](https://react-tic-tac-toe-ebon.vercel.app/)
